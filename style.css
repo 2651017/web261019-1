@@ -53,3 +53,24 @@
      border-radius: 999px;
      font-weight: bold;
  }
+
+ top {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ 
+ nav ul {
+     display: flex;
+     gap: 20px;
+     liststyle: none;
+     margin: 0;
+     padding: 0;
+ }
+
+ 
+ nav a {
+     color: #fff;
+     text-decoration: none;
+ }
